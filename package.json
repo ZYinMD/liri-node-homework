@@ -1,0 +1,25 @@
+{
+  "name": "liri-node-homework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "dependencies": {
+    "dotenv": "^5.0.0",
+    "node-spotify-api": "^1.0.7",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node liri"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZYinMD/liri-node-homework.git"
+  },
+  "author": "Z Yin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZYinMD/liri-node-homework/issues"
+  },
+  "homepage": "https://github.com/ZYinMD/liri-node-homework#readme"
+}
