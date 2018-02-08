@@ -11,13 +11,13 @@ var twitterCall = function(twitterUserToSearch = 'ZYinMD') {
   function showTweets(error, tweets, response) { //this function is the callback of twitterCall
     if (!error) {
       tweets.length == 20 ?
-        console.log(`\nShowing the first 20 tweets from ${twitterUserToSearch}:\n--------------------------------------`) :
-        console.log(`\n${twitterUserToSearch} has ${tweets.length} tweets in total:\n--------------------------------------`)
+        log(`\nShowing the first 20 tweets from ${twitterUserToSearch}:\n--------------------------------------`) :
+        log(`\n${twitterUserToSearch} has ${tweets.length} tweets in total:\n--------------------------------------`)
       for (let i of tweets) {
-        console.log('- ' + i.text);
+        log('- ' + i.text);
       }
     } else {
-      console.log(error)
+      log(error)
     }
   }
 }
@@ -26,10 +26,10 @@ const Spotify = require('node-spotify-api');
 const spotify = new Spotify(apiKeys.spotify);
 spotifyCall = function(query = 'The Sign Ace of Base') {
   if (process.argv[4]) {
-    console.log(`
+    log(`
   Please use this format:
-  \x1b[1mnode liri spotify-this-song "song name"
-  \x1b[0mFeel free to add other keywords like album, artist, etc. but within the same quote marks as the song name`)
+    node liri spotify-this-song "song name"
+  Feel free to add other keywords like album, artist, etc. but within the same quote marks as the song name`)
     return
   }
   spotify.search({
@@ -37,10 +37,10 @@ spotifyCall = function(query = 'The Sign Ace of Base') {
     query: query
   }, function(err, data) {
     if (err) {
-      return console.log('Error occurred: ' + err);
+      return log('Error occurred: ' + err);
     }
     for (i of data.tracks.items) {
-      console.log(`
+      log(`
     Artist: ${i.artists[0].name}
     Song Name: ${i.name}
     Album: ${i.album.name}
@@ -58,18 +58,18 @@ function omdbCall(movie = 'Mr. Nobody') {
 
 function showMovie(error, response, body) {
   if (process.argv[4]) {
-    console.log(`
+    log(`
   Please use this format:
-  \x1b[1mnode liri movie-this "movie name"\x1b[0m`)
-  return
+    node liri movie-this "movie name"`)
+    return
   }
   if (error || response.statusCode != 200) {
-    console.log('Error: ' + error);
-    console.log('response status code =: ' + response.statusCode);
+    log('Error: ' + error);
+    log('response status code =: ' + response.statusCode);
     return;
   } else {
     body = JSON.parse(body);
-    console.log(body.Error || `
+    log(body.Error || `
 Title: ${body.Title}
 Year: ${body.Year}
 IMDB Rating: ${body.imdbRating}
@@ -80,29 +80,44 @@ Plot: ${body.Plot}
 Actors: ${body.Actors}`);
   }
 }
-
 const instructions = function() {
-  console.log(`
+  log(`
   Instructions:
   ---------------------------
 
   To search tweets:
-  \x1b[1mnode liri my-tweets [twitterUsernameToSearch]\x1b[0m
-  (Default username is ZYinMD)
+    node liri my-tweets [twitterUsernameToSearch]
+    (Default username is ZYinMD)
 
   To search songs in Spotify:
-  \x1b[1mnode liri spotify-this-song ["song name"]\x1b[0m
-  (Feel free to add other keywords like album, artist, etc. inside the same quote marks.
-  Default search term is "The Sign by Ace of Base")
+    node liri spotify-this-song ["song name"]
+    (Feel free to add other keywords like album, artist, etc. inside the same quote marks.
+    Default search term is "The Sign by Ace of Base")
 
   To search movies:
-  \x1b[1mnode liri movie-this ["movie name"]\x1b[0m
-  (Default search term is "Mr. Nobody")
+    node liri movie-this ["movie name"]
+    (Default search term is "Mr. Nobody")
     `)
+}
+const fs = require('fs');
+
+function log(text) {
+  console.log(text);
+  fs.appendFileSync('log.txt', text + '\n');
+}
+
+function logInput() {
+  fs.appendFileSync('log.txt', '\nnode liri ')
+  for (i of process.argv.slice(2)) {
+    fs.appendFileSync('log.txt', i + ' ')
+  }
+  fs.appendFileSync('log.txt', '\n ')
+
 }
 module.exports = {
   twitterCall: twitterCall,
   instructions: instructions,
   spotifyCall: spotifyCall,
-  omdbCall: omdbCall
+  omdbCall: omdbCall,
+  logInput: logInput
 }

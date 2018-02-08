@@ -1,5 +1,5 @@
 const f = require('./functions.js')
-
+f.logInput();
 switch (process.argv[2]) {
   case 'my-tweets':
     f.twitterCall(process.argv[3]);
@@ -16,4 +16,3 @@ switch (process.argv[2]) {
   default:
     f.instructions();
 }
-

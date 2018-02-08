@@ -1,0 +1,298 @@
+
+node liri my-tweets 
+ZYinMD has 3 tweets in total:
+--------------------------------------
+- So the center core didn't land on the drone ship
+- Iris would've been so much better a name than Liri
+- Hello World
+
+node liri my-twee 
+  Instructions:
+  ---------------------------
+
+  To search tweets:
+    node liri my-tweets [twitterUsernameToSearch]
+    (Default username is ZYinMD)
+
+  To search songs in Spotify:
+    node liri spotify-this-song ["song name"]
+    (Feel free to add other keywords like album, artist, etc. inside the same quote marks.
+    Default search term is "The Sign by Ace of Base")
+
+  To search movies:
+    node liri movie-this ["movie name"]
+    (Default search term is "Mr. Nobody")
+    
+
+node liri 
+my-twee 
+  Instructions:
+  ---------------------------
+
+  To search tweets:
+    node liri my-tweets [twitterUsernameToSearch]
+    (Default username is ZYinMD)
+
+  To search songs in Spotify:
+    node liri spotify-this-song ["song name"]
+    (Feel free to add other keywords like album, artist, etc. inside the same quote marks.
+    Default search term is "The Sign by Ace of Base")
+
+  To search movies:
+    node liri movie-this ["movie name"]
+    (Default search term is "Mr. Nobody")
+    
+
+node liri my-twee 
+ 
+  Instructions:
+  ---------------------------
+
+  To search tweets:
+    node liri my-tweets [twitterUsernameToSearch]
+    (Default username is ZYinMD)
+
+  To search songs in Spotify:
+    node liri spotify-this-song ["song name"]
+    (Feel free to add other keywords like album, artist, etc. inside the same quote marks.
+    Default search term is "The Sign by Ace of Base")
+
+  To search movies:
+    node liri movie-this ["movie name"]
+    (Default search term is "Mr. Nobody")
+    
+
+node liri spotify-this-song I dreamed a dream 
+ 
+    Artist: Anne Hathaway
+    Song Name: I Dreamed A Dream - From "Les Misérables"
+    Album: Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)
+    Link: https://open.spotify.com/track/7CNVenAoty0IomwFPaMaaH
+    
+
+    Artist: Susan Boyle
+    Song Name: I Dreamed a Dream
+    Album: I Dreamed A Dream
+    Link: https://open.spotify.com/track/1uenbEVPd129TmVPXyn9Lv
+    
+
+    Artist: Darren Criss
+    Song Name: I Dreamed A Dream
+    Album: I Dreamed A Dream
+    Link: https://open.spotify.com/track/4kxOKof62prdZmQ4bm9yz0
+    
+
+    Artist: Les Misérables-Original London Cast
+    Song Name: I Dreamed a Dream
+    Album: Les Miserables (The Original London Cast Recording)
+    Link: https://open.spotify.com/track/0WRfQTtb0um9EfeIRiLZZ1
+    
+
+    Artist: Glee Cast
+    Song Name: I Dreamed A Dream (Glee Cast Version featuring Idina Menzel)
+    Album: Glee: The Music, Volume 3 Showstoppers
+    Link: https://open.spotify.com/track/4QDo30WQZZJle0Up1mC8ez
+    
+
+    Artist: Darren Criss
+    Song Name: I Dreamed A Dream
+    Album: Homework
+    Link: https://open.spotify.com/track/4Nire83ANbP2JTb62YqZZ7
+    
+
+    Artist: Alain Boublil
+    Song Name: I Dreamed A Dream
+    Album: Les Misérables (Original Broadway Cast Recording)
+    Link: https://open.spotify.com/track/7w2d0evPLoCfACe9nRs0dY
+    
+
+    Artist: Glee Cast
+    Song Name: I Dreamed A Dream (Glee Cast Version featuring Idina Menzel)
+    Album: I Dreamed A Dream (Glee Cast Version featuring Idina Menzel)
+    Link: https://open.spotify.com/track/1r1dNSu7OSyxmzUrrRjIyz
+    
+
+    Artist: Susan Boyle
+    Song Name: Wild Horses
+    Album: I Dreamed A Dream
+    Link: https://open.spotify.com/track/70rEifmDizVTzvvuUMEITz
+    
+
+    Artist: Ruthie Henshall
+    Song Name: I Dreamed a Dream - Live
+    Album: Les Misérables 10th Anniversary Concert
+    Link: https://open.spotify.com/track/4RuYP2rcxF7elcWXrGFdC5
+    
+
+    Artist: Ruthie Henshall
+    Song Name: I Dreamed a Dream - Live
+    Album: Les Misérables: In Concert at the Royal Albert Hall
+    Link: https://open.spotify.com/track/1VPNmCdbu2V46BFEDxiW1J
+    
+
+    Artist: Madalena Alberto
+    Song Name: I Dreamed a Dream - Live
+    Album: Les Misérables Live! The 2010 Cast Album
+    Link: https://open.spotify.com/track/3cNTLHL9m1XbaPFYg1Tyvb
+    
+
+    Artist: George Nascimento
+    Song Name: I Dreamed a Dream
+    Album: Broadway Piano
+    Link: https://open.spotify.com/track/1qQorbIEC47DgJoqRxbTdN
+    
+
+    Artist: Anne Hathaway
+    Song Name: I Dreamed A Dream - From "Les Misérables"
+    Album: Les Misérables: Highlights From The Motion Picture Soundtrack
+    Link: https://open.spotify.com/track/2JCeco3IudmCAw0MyQY2QD
+    
+
+    Artist: Stan Whitmire
+    Song Name: I Dreamed a Dream / Castle On a Cloud / On My Own / A Little Fall of Rain (Medley)
+    Album: Piano On Broadway: 30 Classic Broadway Songs On Solo Piano
+    Link: https://open.spotify.com/track/2JKRxI6iiyh7huqIYndX8T
+    
+
+    Artist: Chase Holfelder
+    Song Name: I Dreamed a Dream
+    Album: Major to Minor, Vol.1
+    Link: https://open.spotify.com/track/3EnvGrCR8VEgb5GwGoLhRJ
+    
+
+    Artist: Susan Boyle
+    Song Name: Amazing Grace
+    Album: I Dreamed A Dream
+    Link: https://open.spotify.com/track/69TyXr6xt5AYz1i0meGlvz
+    
+
+    Artist: Jun Sung Ahn
+    Song Name: I Dreamed a Dream
+    Album: I Dreamed a Dream
+    Link: https://open.spotify.com/track/4QW0oQDM3Bp7Dmh8Si1yNT
+    
+
+    Artist: Baby Lullaby
+    Song Name: I Dreamed A Dream
+    Album: Movie Piano Lullabies Of Titanic, Twilight, Harry Potter, Braveheart, Forrest Gump And More...
+    Link: https://open.spotify.com/track/2lhgoKO0REJH4Lq8Vsa5ax
+    
+
+    Artist: Susan Boyle
+    Song Name: Who I Was Born to Be
+    Album: I Dreamed A Dream
+    Link: https://open.spotify.com/track/4IuXGJLhhPoLYPBlwcIYvw
+    
+
+node liri spotify-this-song I dreamed a dream 
+ 
+    Artist: Anne Hathaway
+    Song Name: I Dreamed A Dream - From "Les Misérables"
+    Album: Les Misérables: The Motion Picture Soundtrack Deluxe (Deluxe Edition)
+    Link: https://open.spotify.com/track/7CNVenAoty0IomwFPaMaaH
+
+    Artist: Susan Boyle
+    Song Name: I Dreamed a Dream
+    Album: I Dreamed A Dream
+    Link: https://open.spotify.com/track/1uenbEVPd129TmVPXyn9Lv
+
+    Artist: Darren Criss
+    Song Name: I Dreamed A Dream
+    Album: I Dreamed A Dream
+    Link: https://open.spotify.com/track/4kxOKof62prdZmQ4bm9yz0
+
+    Artist: Les Misérables-Original London Cast
+    Song Name: I Dreamed a Dream
+    Album: Les Miserables (The Original London Cast Recording)
+    Link: https://open.spotify.com/track/0WRfQTtb0um9EfeIRiLZZ1
+
+    Artist: Glee Cast
+    Song Name: I Dreamed A Dream (Glee Cast Version featuring Idina Menzel)
+    Album: Glee: The Music, Volume 3 Showstoppers
+    Link: https://open.spotify.com/track/4QDo30WQZZJle0Up1mC8ez
+
+    Artist: Darren Criss
+    Song Name: I Dreamed A Dream
+    Album: Homework
+    Link: https://open.spotify.com/track/4Nire83ANbP2JTb62YqZZ7
+
+    Artist: Alain Boublil
+    Song Name: I Dreamed A Dream
+    Album: Les Misérables (Original Broadway Cast Recording)
+    Link: https://open.spotify.com/track/7w2d0evPLoCfACe9nRs0dY
+
+    Artist: Glee Cast
+    Song Name: I Dreamed A Dream (Glee Cast Version featuring Idina Menzel)
+    Album: I Dreamed A Dream (Glee Cast Version featuring Idina Menzel)
+    Link: https://open.spotify.com/track/1r1dNSu7OSyxmzUrrRjIyz
+
+    Artist: Susan Boyle
+    Song Name: Wild Horses
+    Album: I Dreamed A Dream
+    Link: https://open.spotify.com/track/70rEifmDizVTzvvuUMEITz
+
+    Artist: Ruthie Henshall
+    Song Name: I Dreamed a Dream - Live
+    Album: Les Misérables 10th Anniversary Concert
+    Link: https://open.spotify.com/track/4RuYP2rcxF7elcWXrGFdC5
+
+    Artist: Ruthie Henshall
+    Song Name: I Dreamed a Dream - Live
+    Album: Les Misérables: In Concert at the Royal Albert Hall
+    Link: https://open.spotify.com/track/1VPNmCdbu2V46BFEDxiW1J
+
+    Artist: Madalena Alberto
+    Song Name: I Dreamed a Dream - Live
+    Album: Les Misérables Live! The 2010 Cast Album
+    Link: https://open.spotify.com/track/3cNTLHL9m1XbaPFYg1Tyvb
+
+    Artist: George Nascimento
+    Song Name: I Dreamed a Dream
+    Album: Broadway Piano
+    Link: https://open.spotify.com/track/1qQorbIEC47DgJoqRxbTdN
+
+    Artist: Anne Hathaway
+    Song Name: I Dreamed A Dream - From "Les Misérables"
+    Album: Les Misérables: Highlights From The Motion Picture Soundtrack
+    Link: https://open.spotify.com/track/2JCeco3IudmCAw0MyQY2QD
+
+    Artist: Stan Whitmire
+    Song Name: I Dreamed a Dream / Castle On a Cloud / On My Own / A Little Fall of Rain (Medley)
+    Album: Piano On Broadway: 30 Classic Broadway Songs On Solo Piano
+    Link: https://open.spotify.com/track/2JKRxI6iiyh7huqIYndX8T
+
+    Artist: Chase Holfelder
+    Song Name: I Dreamed a Dream
+    Album: Major to Minor, Vol.1
+    Link: https://open.spotify.com/track/3EnvGrCR8VEgb5GwGoLhRJ
+
+    Artist: Susan Boyle
+    Song Name: Amazing Grace
+    Album: I Dreamed A Dream
+    Link: https://open.spotify.com/track/69TyXr6xt5AYz1i0meGlvz
+
+    Artist: Jun Sung Ahn
+    Song Name: I Dreamed a Dream
+    Album: I Dreamed a Dream
+    Link: https://open.spotify.com/track/4QW0oQDM3Bp7Dmh8Si1yNT
+
+    Artist: Baby Lullaby
+    Song Name: I Dreamed A Dream
+    Album: Movie Piano Lullabies Of Titanic, Twilight, Harry Potter, Braveheart, Forrest Gump And More...
+    Link: https://open.spotify.com/track/2lhgoKO0REJH4Lq8Vsa5ax
+
+    Artist: Susan Boyle
+    Song Name: Who I Was Born to Be
+    Album: I Dreamed A Dream
+    Link: https://open.spotify.com/track/4IuXGJLhhPoLYPBlwcIYvw
+
+node liri movie-this pearl harbor 
+ 
+Title: Pearl Harbor
+Year: 2001
+IMDB Rating: 6.1
+Rotten Tomatos Rating: 25%
+Produced in: USA
+Language: English, Japanese, French
+Plot: A tale of war and romance mixed in with history. The story follows two lifelong friends and a beautiful nurse who are caught up in the horror of an infamous Sunday morning in 1941.
+Actors: Ben Affleck, Josh Hartnett, Kate Beckinsale, William Lee Scott
