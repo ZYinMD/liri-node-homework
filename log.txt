@@ -1,0 +1,69 @@
+
+node liri movie-this helloaa 
+ Movie not found!
+
+node liri movie-th 
+ 
+  Instructions:
+  ---------------------------
+
+  To search tweets:
+    node liri my-tweets [twitterUsernameToSearch]
+    (Default username is ZYinMD)
+
+  To search songs in Spotify:
+    node liri spotify-this-song ["song name"]
+    (Feel free to add other keywords like album, artist, etc. inside the same quote marks.
+    Default search term is "The Sign, Ace of Base")
+
+  To search movies:
+    node liri movie-this ["movie name"]
+    (Default search term is "Mr. Nobody")
+
+  To let Liri do random search:
+    node liri do-what-it-says
+    
+
+node liri movie-th 
+ 
+  Instructions:
+  ---------------------------
+
+  To search tweets:
+    node liri my-tweets [twitterUsernameToSearch]
+    (Default username is ZYinMD)
+
+  To search songs in Spotify:
+    node liri spotify-this-song ["song name"]
+    (Feel free to add other keywords like album, artist, etc. inside the same quote marks.
+    Default search term is "The Sign, Ace of Base")
+
+  To search movies:
+    node liri movie-this ["movie name"]
+    (Default search term is "Mr. Nobody")
+
+  To let Liri do random search:
+    node liri do-what-it-says
+    
+
+node liri movie-th 
+ 
+  help:
+  ---------------------------
+
+  To search tweets:
+    node liri my-tweets [twitterUsernameToSearch]
+    (Default username is ZYinMD)
+
+  To search songs in Spotify:
+    node liri spotify-this-song ["song name"]
+    (Feel free to add other keywords like album, artist, etc. inside the same quote marks.
+    Default search term is "The Sign, Ace of Base")
+
+  To search movies:
+    node liri movie-this ["movie name"]
+    (Default search term is "Mr. Nobody")
+
+  To let Liri do random search:
+    node liri do-what-it-says
+    

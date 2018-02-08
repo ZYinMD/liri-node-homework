@@ -14,5 +14,5 @@ switch (process.argv[2]) {
     f.randomCall();
     break;
   default:
-    f.instructions(); //if argument 2 isn't recognizable, show the instructions
+    f.help(); //if argument 2 isn't recognizable, show the help
 }

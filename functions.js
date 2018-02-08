@@ -16,9 +16,9 @@ function logInput() { //this function is called every time liri.js runs to log t
 }
 
 //instructions / help / manual
-const instructions = function() { //this is called when user input was not a recognizable pattern
+const help = function() { //this is called when user input was not a recognizable pattern
   log(`
-  Instructions:
+  Help:
   ---------------------------
 
   To search tweets:
@@ -65,7 +65,7 @@ const Spotify = require('node-spotify-api');
 const spotify = new Spotify(apiKeys.spotify);
 
 function spotifyCall(query = 'The Sign, Ace of Base') {
-  if (process.argv[4]) { //Show instructions if the 4th argument exists, user probably forgot to put quotes around song name.
+  if (process.argv[4]) { //Show help if the 4th argument exists, user probably forgot to put quotes around song name.
     log(`
   Please use this format:
     node liri spotify-this-song "song name"
@@ -97,7 +97,7 @@ const request = require('request');
 function omdbCall(movie = 'Mr. Nobody') {
   var queryURL = `https://www.omdbapi.com/?apikey=${apiKeys.omdbApiKey}&t=${movie}`;
   request(queryURL, function(error, response, body) {
-    if (process.argv[4]) { //Show instructions if the 4th argument exists, user probably forgot to put quotes around song name.
+    if (process.argv[4]) { //Show help if the 4th argument exists, user probably forgot to put quotes around song name.
       log(`
   Please use this format:
     node liri movie-this "movie name"`)
@@ -151,7 +151,7 @@ function randomCall() { //do a search with a random line in random.txt
 //exports:
 module.exports = {
   twitterCall: twitterCall,
-  instructions: instructions,
+  help: help,
   spotifyCall: spotifyCall,
   omdbCall: omdbCall,
   randomCall: randomCall,
