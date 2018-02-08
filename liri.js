@@ -11,7 +11,7 @@ switch (process.argv[2]) {
     f.omdbCall(process.argv[3]);
     break;
   case 'do-what-it-says':
-    console.log('do-what-it-says');
+    f.randomCall();
     break;
   default:
     f.instructions();

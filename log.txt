@@ -296,3 +296,984 @@ Produced in: USA
 Language: English, Japanese, French
 Plot: A tale of war and romance mixed in with history. The story follows two lifelong friends and a beautiful nurse who are caught up in the horror of an infamous Sunday morning in 1941.
 Actors: Ben Affleck, Josh Hartnett, Kate Beckinsale, William Lee Scott
+
+    Artist: Girls' Generation
+    Song Name: Lion Heart
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3
+
+    Artist: Jake Miller
+    Song Name: Lion Heart
+    Album: Dazed And Confused EP
+    Link: https://open.spotify.com/track/5GGYEJKw3BhMMPdCa6A4NC
+
+    Artist: Girls' Generation
+    Song Name: You Think
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/0FleCid5zJl78Gc4NSpg3s
+
+    Artist: Girls' Generation
+    Song Name: PARTY
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/0uak6K95JcYexDgqHmh5cc
+
+    Artist: Wild Ones
+    Song Name: Lion Heart
+    Album: Keep It Safe
+    Link: https://open.spotify.com/track/3P0WwrUX87LWK4jw3YVW81
+
+    Artist: The Tallest Man On Earth
+    Song Name: A Lion's Heart
+    Album: The Wild Hunt
+    Link: https://open.spotify.com/track/0331CPjueco4BlAbhA2ghs
+
+    Artist: Audiomachine
+    Song Name: The Lion's Heart
+    Album: Decimus
+    Link: https://open.spotify.com/track/53CafNW0g5pJvZSf1tm5KV
+
+    Artist: BRÅVES
+    Song Name: Lion Heart
+    Album: BRÅVES
+    Link: https://open.spotify.com/track/39qGWYCJHVsvLiRgI9V1PG
+
+    Artist: I Am The Avalanche
+    Song Name: My Lion Heart
+    Album: Wolverines
+    Link: https://open.spotify.com/track/3IoiwX38XvOuG49E0HjBrw
+
+    Artist: Girls' Generation
+    Song Name: Green Light
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/7C4aWThnPmubzxcrnJWGuk
+
+    Artist: Girls' Generation
+    Song Name: Check
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/3EQC9pepDeytAuIC6zShEF
+
+    Artist: Girls' Generation
+    Song Name: 예감 Bump It
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/0JbZnZ21MrSMZbOv81F0Kf
+
+    Artist: Girls' Generation
+    Song Name: 어떤 오후 One Afternoon
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY
+
+    Artist: Girls' Generation
+    Song Name: Talk Talk
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/6Pcc7F41Tfo7m2JvDMRfc7
+
+    Artist: Garnett Silk
+    Song Name: Lion Heart
+    Album: Collectors Series-Garnett Silk
+    Link: https://open.spotify.com/track/51oERwCcdjTOh97itpjfyo
+
+    Artist: Girls' Generation
+    Song Name: Show Girls
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/5lXHqiJoFY8O7dcb5TaBLL
+
+    Artist: Girls' Generation
+    Song Name: Paradise
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/4qJb26r6kIeta7xQwV6IPR
+
+    Artist: Girls' Generation
+    Song Name: Fire Alarm
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/40n8bfgbFI745vNrhAzE7L
+
+    Artist: Kenzic
+    Song Name: Lion Heart
+    Album: Lion Heart
+    Link: https://open.spotify.com/track/6cZiRbx3XRCx6AbXVJAkEM
+
+    Artist: Ametista
+    Song Name: Lion Heart
+    Album: Lion Heart
+    Link: https://open.spotify.com/track/1ArygYi9mNIj0pjgA28htm
+
+node liri ...pickOne
+
+    Artist: Claude Joseph Rouget de Lisle
+    Song Name: La Marseillaise
+    Album: musiques militaires
+    Link: https://open.spotify.com/track/3UcgFpeFrrebm1upPSYsy8
+
+    Artist: Les Révolutionnaires
+    Song Name: La Marseillaise
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/4kPf7upxip35Qg5pJwBGdB
+
+    Artist: Silverstein
+    Song Name: La Marseillaise
+    Album: Short Songs
+    Link: https://open.spotify.com/track/2vcyX424kesxf40vjAI2AN
+
+    Artist: ARNAUD KIENTZ
+    Song Name: La Marseillaise
+    Album: LA MARSEILLAISE (Hymne National Français)
+    Link: https://open.spotify.com/track/0oWwVTGBtlk4icYBIwpuhN
+
+    Artist: Django Reinhardt
+    Song Name: La Marseillaise
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/49uI3yiXoNEUSZ4rTpKLma
+
+    Artist: ARNAUD KIENTZ
+    Song Name: The French National Anthem: La Marseillaise
+    Album: The French National Anthem: La Marseillaise
+    Link: https://open.spotify.com/track/6pqyjHOjbcNLGMGkOra5Yp
+
+    Artist: Jacky Terrasson
+    Song Name: La Marseillaise
+    Album: A Paris
+    Link: https://open.spotify.com/track/0VHzBmqO0XB9trTHTWDi32
+
+    Artist: The National Anthems Orchestra
+    Song Name: France: La Marseillaise (French National Anthem)
+    Album: National Anthems of All Countries Selected for the 2014 Football World Series
+    Link: https://open.spotify.com/track/16uwxbN9F1gSmc42EpLE6C
+
+    Artist: Casus Belli
+    Song Name: La Marseillaise - Remix
+    Album: La Marseillaise (Remix)
+    Link: https://open.spotify.com/track/0Ra9NShu3mGHHu1vfe8bOz
+
+    Artist: ARNAUD KIENTZ
+    Song Name: La Marseillaise
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/3it36XegEqsGiEzxM57s5g
+
+    Artist: Electronics CO
+    Song Name: La Marseillaise
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/5CpAt2eDz1zrg7DTY9ZzkT
+
+    Artist: Chassol
+    Song Name: Cagole Swag (La Marseillaise)
+    Album: Ultrascores
+    Link: https://open.spotify.com/track/5O3RKQgz7lSyGMb5T67CrX
+
+    Artist: Django Reinhardt
+    Song Name: Dinah
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/2wUmfRUYQlKXJ17qSDbQxJ
+
+    Artist: Choeur de l'Armée Française
+    Song Name: France: La Marseillaise
+    Album: Les hymnes officiels de la Coupe du Monde de Rugby (National Anthems Rugby World Cup France)
+    Link: https://open.spotify.com/track/2q1vrQs0yhqXjbgThXz9lk
+
+    Artist: Claude Joseph Rouget de Lisle
+    Song Name: La marseillaise
+    Album: La marseillaise - Single
+    Link: https://open.spotify.com/track/2fOJrigTZ2z1TttxeSuCPO
+
+    Artist: ARNAUD KIENTZ
+    Song Name: La Marseillaise (Version instrumentale)
+    Album: LA MARSEILLAISE (Hymne National Français)
+    Link: https://open.spotify.com/track/1EPewsjM7L3uyTTNh5PAf7
+
+    Artist: ARNAUD KIENTZ
+    Song Name: La Marseillaise Version instrumentale
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/5tUbe5e7DhH5mAzEFnvTKj
+
+    Artist: Django Reinhardt
+    Song Name: Les Yeux Noirs
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/4rqNjNqKUU44NjPNBV2lRC
+
+    Artist: Django Reinhardt
+    Song Name: Swing From Paris
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/6xrl70V9G1OD8mDvhXmmtC
+
+    Artist: Django Reinhardt
+    Song Name: Djangology
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/21bxuyrmlMgEDzK61bAJLt
+
+Title: Fantasia
+Year: 1940
+IMDB Rating: 7.8
+Rotten Tomatos Rating: 96%
+Produced in: USA
+Language: English
+Plot: A collection of animated interpretations of great works of Western classical music.
+Actors: Leopold Stokowski, Deems Taylor
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Sleep: 111 Pieces Of Classical Music For Bedtime
+    Link: https://open.spotify.com/track/1VFazc4ZUMUq9Q0OtpMQ8I
+
+    Artist: Efteling
+    Song Name: De Magische Klok "By The Sleepy Lagoon"
+    Album: Betoverende Efteling Melodieën
+    Link: https://open.spotify.com/track/7JXPZKDM9TuBUYnSvFdaJP
+
+    Artist: Harry James
+    Song Name: (By The) Sleepy Lagoon
+    Album: The Essential Big Bands
+    Link: https://open.spotify.com/track/7hbmJpV78teGjOGewBFkfY
+
+    Artist: The Inns of Court and City Yeomanry Band of The Royal Yeomanry
+    Song Name: By The Sleepy Lagoon
+    Album: The Music of Eric Coates By the Sleepy Lagoon
+    Link: https://open.spotify.com/track/2VEiTG2jmMFgjR7S1Hp0S4
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Light Classical
+    Link: https://open.spotify.com/track/1yLGDPzyBdJBPD3746WK51
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Light Classical Hits
+    Link: https://open.spotify.com/track/2Vz32AcCSuIgOZykzQGx9I
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Chilled Piano Vol.4
+    Link: https://open.spotify.com/track/6N7xVRvZleJR0oPXwW7Oa4
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: John Williams & The Boston Pops Orchestra - A Celebration
+    Link: https://open.spotify.com/track/6SyG0TUSj4czopzAJbduWT
+
+    Artist: Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Encore! (2 CDs)
+    Link: https://open.spotify.com/track/6tjp97DRFDja7HvOLgCi1d
+
+    Artist: Camarata & His Orchestra
+    Song Name: By The Sleepy Lagoon
+    Album: Soft And Sentimental
+    Link: https://open.spotify.com/track/2Wf7q9qIJkoHc5QfRNEIao
+
+    Artist: Eric Coates
+    Song Name: By the Sleepy Lagoon
+    Album: Palm Court Music: Grand Hotel
+    Link: https://open.spotify.com/track/6g3LNRWgNcY4Q0vIkoLCM0
+
+    Artist: Macky Kasper
+    Song Name: By the Sleepy Lagoon
+    Album: European Swing Giants, Vol. 4
+    Link: https://open.spotify.com/track/5hcOqaNdSTyFA0X2od3t8s
+
+    Artist: The Inns of Court & City Yeomanry Band of the Royal Yeomanry
+    Song Name: By the Sleepy Lagoon
+    Album: London Again - The Music of Eric Coates
+    Link: https://open.spotify.com/track/2AH0iHw5qWGQxW9PfHabFB
+
+    Artist: Harry Silver
+    Song Name: By The Sleepy Lagoon
+    Album: Instrumentals Maxi-Compilation 48
+    Link: https://open.spotify.com/track/7IjUI6Is80kJNeWkBKofng
+
+    Artist: Eric Coates
+    Song Name: By the Sleepy Lagoon
+    Album: W.H. Smiths Vol. 16 (British Light Music)
+    Link: https://open.spotify.com/track/3MiT4puImR6oFfPMKDyPyl
+
+    Artist: The Minden of the Queen's Division
+    Song Name: By The Sleepy Lagoon
+    Album: A Green And Pleasant Land
+    Link: https://open.spotify.com/track/4RRJe7iERtxvSx0sx9Di3V
+
+    Artist: Sir Charles Mackerras
+    Song Name: By the Sleepy Lagoon
+    Album: The Enchanted Garden – Music of Eric Coates
+    Link: https://open.spotify.com/track/1M5bfSLq99RV20IAr3Psfp
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Dream with Classical Music
+    Link: https://open.spotify.com/track/1mFzrSmHNANxi1hHxEDVb0
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Gentle Classical Music
+    Link: https://open.spotify.com/track/1OdMO5edySOscbwlt7DW8t
+
+    Artist: The Minden of the Queen's Division
+    Song Name: By The Sleepy Lagoon
+    Album: A Green and Pleasant Land
+    Link: https://open.spotify.com/track/7a1ya2zMCYA3FgJCrpcqPn
+
+    Artist: Girls' Generation
+    Song Name: Lion Heart
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3
+
+    Artist: Jake Miller
+    Song Name: Lion Heart
+    Album: Dazed And Confused EP
+    Link: https://open.spotify.com/track/5GGYEJKw3BhMMPdCa6A4NC
+
+    Artist: Girls' Generation
+    Song Name: You Think
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/0FleCid5zJl78Gc4NSpg3s
+
+    Artist: Girls' Generation
+    Song Name: PARTY
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/0uak6K95JcYexDgqHmh5cc
+
+    Artist: Wild Ones
+    Song Name: Lion Heart
+    Album: Keep It Safe
+    Link: https://open.spotify.com/track/3P0WwrUX87LWK4jw3YVW81
+
+    Artist: The Tallest Man On Earth
+    Song Name: A Lion's Heart
+    Album: The Wild Hunt
+    Link: https://open.spotify.com/track/0331CPjueco4BlAbhA2ghs
+
+    Artist: Audiomachine
+    Song Name: The Lion's Heart
+    Album: Decimus
+    Link: https://open.spotify.com/track/53CafNW0g5pJvZSf1tm5KV
+
+    Artist: BRÅVES
+    Song Name: Lion Heart
+    Album: BRÅVES
+    Link: https://open.spotify.com/track/39qGWYCJHVsvLiRgI9V1PG
+
+    Artist: I Am The Avalanche
+    Song Name: My Lion Heart
+    Album: Wolverines
+    Link: https://open.spotify.com/track/3IoiwX38XvOuG49E0HjBrw
+
+    Artist: Girls' Generation
+    Song Name: Green Light
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/7C4aWThnPmubzxcrnJWGuk
+
+    Artist: Girls' Generation
+    Song Name: Check
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/3EQC9pepDeytAuIC6zShEF
+
+    Artist: Girls' Generation
+    Song Name: 예감 Bump It
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/0JbZnZ21MrSMZbOv81F0Kf
+
+    Artist: Girls' Generation
+    Song Name: 어떤 오후 One Afternoon
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY
+
+    Artist: Girls' Generation
+    Song Name: Talk Talk
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/6Pcc7F41Tfo7m2JvDMRfc7
+
+    Artist: Garnett Silk
+    Song Name: Lion Heart
+    Album: Collectors Series-Garnett Silk
+    Link: https://open.spotify.com/track/51oERwCcdjTOh97itpjfyo
+
+    Artist: Girls' Generation
+    Song Name: Show Girls
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/5lXHqiJoFY8O7dcb5TaBLL
+
+    Artist: Girls' Generation
+    Song Name: Paradise
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/4qJb26r6kIeta7xQwV6IPR
+
+    Artist: Girls' Generation
+    Song Name: Fire Alarm
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/40n8bfgbFI745vNrhAzE7L
+
+    Artist: Kenzic
+    Song Name: Lion Heart
+    Album: Lion Heart
+    Link: https://open.spotify.com/track/6cZiRbx3XRCx6AbXVJAkEM
+
+    Artist: Ametista
+    Song Name: Lion Heart
+    Album: Lion Heart
+    Link: https://open.spotify.com/track/1ArygYi9mNIj0pjgA28htm
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Sleep: 111 Pieces Of Classical Music For Bedtime
+    Link: https://open.spotify.com/track/1VFazc4ZUMUq9Q0OtpMQ8I
+
+    Artist: Efteling
+    Song Name: De Magische Klok "By The Sleepy Lagoon"
+    Album: Betoverende Efteling Melodieën
+    Link: https://open.spotify.com/track/7JXPZKDM9TuBUYnSvFdaJP
+
+    Artist: Harry James
+    Song Name: (By The) Sleepy Lagoon
+    Album: The Essential Big Bands
+    Link: https://open.spotify.com/track/7hbmJpV78teGjOGewBFkfY
+
+    Artist: The Inns of Court and City Yeomanry Band of The Royal Yeomanry
+    Song Name: By The Sleepy Lagoon
+    Album: The Music of Eric Coates By the Sleepy Lagoon
+    Link: https://open.spotify.com/track/2VEiTG2jmMFgjR7S1Hp0S4
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Light Classical
+    Link: https://open.spotify.com/track/1yLGDPzyBdJBPD3746WK51
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Light Classical Hits
+    Link: https://open.spotify.com/track/2Vz32AcCSuIgOZykzQGx9I
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Chilled Piano Vol.4
+    Link: https://open.spotify.com/track/6N7xVRvZleJR0oPXwW7Oa4
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: John Williams & The Boston Pops Orchestra - A Celebration
+    Link: https://open.spotify.com/track/6SyG0TUSj4czopzAJbduWT
+
+    Artist: Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Encore! (2 CDs)
+    Link: https://open.spotify.com/track/6tjp97DRFDja7HvOLgCi1d
+
+    Artist: Camarata & His Orchestra
+    Song Name: By The Sleepy Lagoon
+    Album: Soft And Sentimental
+    Link: https://open.spotify.com/track/2Wf7q9qIJkoHc5QfRNEIao
+
+    Artist: Eric Coates
+    Song Name: By the Sleepy Lagoon
+    Album: Palm Court Music: Grand Hotel
+    Link: https://open.spotify.com/track/6g3LNRWgNcY4Q0vIkoLCM0
+
+    Artist: Macky Kasper
+    Song Name: By the Sleepy Lagoon
+    Album: European Swing Giants, Vol. 4
+    Link: https://open.spotify.com/track/5hcOqaNdSTyFA0X2od3t8s
+
+    Artist: The Inns of Court & City Yeomanry Band of the Royal Yeomanry
+    Song Name: By the Sleepy Lagoon
+    Album: London Again - The Music of Eric Coates
+    Link: https://open.spotify.com/track/2AH0iHw5qWGQxW9PfHabFB
+
+    Artist: Harry Silver
+    Song Name: By The Sleepy Lagoon
+    Album: Instrumentals Maxi-Compilation 48
+    Link: https://open.spotify.com/track/7IjUI6Is80kJNeWkBKofng
+
+    Artist: Eric Coates
+    Song Name: By the Sleepy Lagoon
+    Album: W.H. Smiths Vol. 16 (British Light Music)
+    Link: https://open.spotify.com/track/3MiT4puImR6oFfPMKDyPyl
+
+    Artist: The Minden of the Queen's Division
+    Song Name: By The Sleepy Lagoon
+    Album: A Green And Pleasant Land
+    Link: https://open.spotify.com/track/4RRJe7iERtxvSx0sx9Di3V
+
+    Artist: Sir Charles Mackerras
+    Song Name: By the Sleepy Lagoon
+    Album: The Enchanted Garden – Music of Eric Coates
+    Link: https://open.spotify.com/track/1M5bfSLq99RV20IAr3Psfp
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Dream with Classical Music
+    Link: https://open.spotify.com/track/1mFzrSmHNANxi1hHxEDVb0
+
+    Artist: Eric Coates
+    Song Name: By The Sleepy Lagoon
+    Album: Gentle Classical Music
+    Link: https://open.spotify.com/track/1OdMO5edySOscbwlt7DW8t
+
+    Artist: The Minden of the Queen's Division
+    Song Name: By The Sleepy Lagoon
+    Album: A Green and Pleasant Land
+    Link: https://open.spotify.com/track/7a1ya2zMCYA3FgJCrpcqPn
+
+    Artist: Claude Joseph Rouget de Lisle
+    Song Name: La Marseillaise
+    Album: musiques militaires
+    Link: https://open.spotify.com/track/3UcgFpeFrrebm1upPSYsy8
+
+    Artist: Les Révolutionnaires
+    Song Name: La Marseillaise
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/4kPf7upxip35Qg5pJwBGdB
+
+    Artist: Silverstein
+    Song Name: La Marseillaise
+    Album: Short Songs
+    Link: https://open.spotify.com/track/2vcyX424kesxf40vjAI2AN
+
+    Artist: ARNAUD KIENTZ
+    Song Name: La Marseillaise
+    Album: LA MARSEILLAISE (Hymne National Français)
+    Link: https://open.spotify.com/track/0oWwVTGBtlk4icYBIwpuhN
+
+    Artist: Django Reinhardt
+    Song Name: La Marseillaise
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/49uI3yiXoNEUSZ4rTpKLma
+
+    Artist: ARNAUD KIENTZ
+    Song Name: The French National Anthem: La Marseillaise
+    Album: The French National Anthem: La Marseillaise
+    Link: https://open.spotify.com/track/6pqyjHOjbcNLGMGkOra5Yp
+
+    Artist: Jacky Terrasson
+    Song Name: La Marseillaise
+    Album: A Paris
+    Link: https://open.spotify.com/track/0VHzBmqO0XB9trTHTWDi32
+
+    Artist: The National Anthems Orchestra
+    Song Name: France: La Marseillaise (French National Anthem)
+    Album: National Anthems of All Countries Selected for the 2014 Football World Series
+    Link: https://open.spotify.com/track/16uwxbN9F1gSmc42EpLE6C
+
+    Artist: Casus Belli
+    Song Name: La Marseillaise - Remix
+    Album: La Marseillaise (Remix)
+    Link: https://open.spotify.com/track/0Ra9NShu3mGHHu1vfe8bOz
+
+    Artist: ARNAUD KIENTZ
+    Song Name: La Marseillaise
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/3it36XegEqsGiEzxM57s5g
+
+    Artist: Electronics CO
+    Song Name: La Marseillaise
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/5CpAt2eDz1zrg7DTY9ZzkT
+
+    Artist: Chassol
+    Song Name: Cagole Swag (La Marseillaise)
+    Album: Ultrascores
+    Link: https://open.spotify.com/track/5O3RKQgz7lSyGMb5T67CrX
+
+    Artist: Django Reinhardt
+    Song Name: Dinah
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/2wUmfRUYQlKXJ17qSDbQxJ
+
+    Artist: Choeur de l'Armée Française
+    Song Name: France: La Marseillaise
+    Album: Les hymnes officiels de la Coupe du Monde de Rugby (National Anthems Rugby World Cup France)
+    Link: https://open.spotify.com/track/2q1vrQs0yhqXjbgThXz9lk
+
+    Artist: Claude Joseph Rouget de Lisle
+    Song Name: La marseillaise
+    Album: La marseillaise - Single
+    Link: https://open.spotify.com/track/2fOJrigTZ2z1TttxeSuCPO
+
+    Artist: ARNAUD KIENTZ
+    Song Name: La Marseillaise (Version instrumentale)
+    Album: LA MARSEILLAISE (Hymne National Français)
+    Link: https://open.spotify.com/track/1EPewsjM7L3uyTTNh5PAf7
+
+    Artist: ARNAUD KIENTZ
+    Song Name: La Marseillaise Version instrumentale
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/5tUbe5e7DhH5mAzEFnvTKj
+
+    Artist: Django Reinhardt
+    Song Name: Les Yeux Noirs
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/4rqNjNqKUU44NjPNBV2lRC
+
+    Artist: Django Reinhardt
+    Song Name: Swing From Paris
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/6xrl70V9G1OD8mDvhXmmtC
+
+    Artist: Django Reinhardt
+    Song Name: Djangology
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/21bxuyrmlMgEDzK61bAJLt
+
+Title: Fantasia
+Year: 1940
+IMDB Rating: 7.8
+Rotten Tomatos Rating: 96%
+Produced in: USA
+Language: English
+Plot: A collection of animated interpretations of great works of Western classical music.
+Actors: Leopold Stokowski, Deems Taylor
+
+Title: My Neighbor Totoro
+Year: 1988
+IMDB Rating: 8.2
+Rotten Tomatos Rating: 94%
+Produced in: Japan
+Language: Japanese
+Plot: When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.
+Actors: Noriko Hidaka, Chika Sakamoto, Shigesato Itoi, Sumi Shimamoto
+
+    Artist: Enigma
+    Song Name: The Child In Us
+    Album: Le Roi Est Mort, Vive Le Roi!
+    Link: https://open.spotify.com/track/6bl2cA03RSC3uodBpq66Jt
+
+    Artist: The O'Neill Brothers Group
+    Song Name: The Child in Us
+    Album: Relaxing Enya Songs & More Instrumentals
+    Link: https://open.spotify.com/track/00pWmJ3x6OOE7MirUK8awr
+
+    Artist: Sygn
+    Song Name: The Child In Us
+    Album: La Música de los Dioses, Vol. 3
+    Link: https://open.spotify.com/track/1Sxznu1wza46AbCE549lef
+
+    Artist: The O'Neill Brothers Group
+    Song Name: The Child in Us
+    Album: Romantic Songs On Cello: Kiss from a Rose
+    Link: https://open.spotify.com/track/6QeSzpf7B1pdkQkcZK4534
+
+    Artist: The O'Neill Brothers Group
+    Song Name: The Child in Us
+    Album: Relaxing Popular Cello Songs
+    Link: https://open.spotify.com/track/6oq5xUQ67x69SJeS66trWl
+
+    Artist: Sean Nagata
+    Song Name: The Child in Us
+    Album: Sean Nagata
+    Link: https://open.spotify.com/track/3eVZrM2yX34Lmjbcv5fYqw
+
+    Artist: The O'Neill Brothers Group
+    Song Name: The Child in Us
+    Album: Classic Pop Rock Instrumentals: Every Breath You Take
+    Link: https://open.spotify.com/track/4PmrD8fzyRgULYMwwyyuG9
+
+    Artist: The O'Neill Brothers Group
+    Song Name: The Child in Us
+    Album: Relaxing Instrumental Music for Waiting Rooms
+    Link: https://open.spotify.com/track/2ecqDt1fVv43U35rjiqcIZ
+
+    Artist: The O'Neill Brothers Group
+    Song Name: The Child in Us
+    Album: New Age Cello Instrumentals
+    Link: https://open.spotify.com/track/6A6e3zFJ6XWkbMSFWrWtIN
+
+    Artist: The O'Neill Brothers Group
+    Song Name: The Child in Us
+    Album: An Instrumental Christmas Album: What a Night!
+    Link: https://open.spotify.com/track/75TZpm5Kqq7RYwX8ri08kS
+
+    Artist: Onur Ates
+    Song Name: The Child in Us
+    Album: The Various Genres, Vol. 5 Ep 2014
+    Link: https://open.spotify.com/track/5KNEQSt9sLqN9kpE0Z7iLN
+
+    Artist: Marston Smith
+    Song Name: The Child In Us (Enigma)
+    Album: Trance Cello
+    Link: https://open.spotify.com/track/2dqePcyb1VzsBIeJpWNHhW
+
+    Artist: Marston Smith
+    Song Name: The Child in Us (Michael Cretu)
+    Album: Marston Live
+    Link: https://open.spotify.com/track/4TutG4eAfUcf9Km4Z6nBTi
+
+    Artist: Lady of Summer
+    Song Name: The Child in Us - Radio Is Gaga Again Mix
+    Album: Privat Ambient Cafe (Best of Luxury Chillout and Ibiza Guitar Sunset Sessions)
+    Link: https://open.spotify.com/track/1qqJhoXsp1LSADYqKVoXfd
+
+    Artist: Lady of Summer
+    Song Name: The Child in Us - Radio Is Gaga Again Mix
+    Album: Diamonds of Chillout (Best of Ambient and Lounge Cafe Bar Music)
+    Link: https://open.spotify.com/track/3UE895uYXsU6SGqUgVU17a
+
+    Artist: Lady of Summer
+    Song Name: The Child in Us - Radio Is Gaga Again Mix
+    Album: Indian Chill Lounge, Vol. 2 (Finest Chillout & Relaxed Buddha Bar Music)
+    Link: https://open.spotify.com/track/5zjh6pdtNclRhxhV0hWpFv
+
+    Artist: Lady of Summer
+    Song Name: The Child in Us - Radio Is Gaga Again Mix
+    Album: Summer of India Lounge (Chillout and Buddha Relaxation Easy Listening Music)
+    Link: https://open.spotify.com/track/6L2IPMvLaMwHRy5ONZBgIj
+
+    Artist: Lady of Summer
+    Song Name: The Child in Us - Radio Is Gaga Again Mix
+    Album: The White Lounge Bar, Vol. 2 (Deluxe Beach Chillout and Relax Hotel Cafe Music)
+    Link: https://open.spotify.com/track/0QPT9FSBtMpOLaSVYR9E0O
+
+    Artist: Lady of Summer
+    Song Name: The Child in Us - Radio Is Gaga Again Mix
+    Album: We Chill Del Mar, Vol. 3 (50 Top Tracks of 100 % Relaxing Cafe / Bar / Lounge / Chillout Music)
+    Link: https://open.spotify.com/track/1hQlIQgW4VDVZNcnXisIqR
+
+    Artist: Lady of Summer
+    Song Name: The Child in Us - Radio Is Gaga Again Mix
+    Album: Heat of Lounge (Best of sexy Ibiza Chillout and Party Lounge del Mar Music)
+    Link: https://open.spotify.com/track/6tSmBXq9oPhZzHOzBXn1y5
+
+node liri do-what-it-says 
+ 
+    Artist: Girls' Generation
+    Song Name: Lion Heart
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/405SQUJdQut02dxtuQ0CZ3
+
+    Artist: Jake Miller
+    Song Name: Lion Heart
+    Album: Dazed And Confused EP
+    Link: https://open.spotify.com/track/5GGYEJKw3BhMMPdCa6A4NC
+
+    Artist: Girls' Generation
+    Song Name: You Think
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/0FleCid5zJl78Gc4NSpg3s
+
+    Artist: Girls' Generation
+    Song Name: PARTY
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/0uak6K95JcYexDgqHmh5cc
+
+    Artist: Wild Ones
+    Song Name: Lion Heart
+    Album: Keep It Safe
+    Link: https://open.spotify.com/track/3P0WwrUX87LWK4jw3YVW81
+
+    Artist: The Tallest Man On Earth
+    Song Name: A Lion's Heart
+    Album: The Wild Hunt
+    Link: https://open.spotify.com/track/0331CPjueco4BlAbhA2ghs
+
+    Artist: Audiomachine
+    Song Name: The Lion's Heart
+    Album: Decimus
+    Link: https://open.spotify.com/track/53CafNW0g5pJvZSf1tm5KV
+
+    Artist: BRÅVES
+    Song Name: Lion Heart
+    Album: BRÅVES
+    Link: https://open.spotify.com/track/39qGWYCJHVsvLiRgI9V1PG
+
+    Artist: I Am The Avalanche
+    Song Name: My Lion Heart
+    Album: Wolverines
+    Link: https://open.spotify.com/track/3IoiwX38XvOuG49E0HjBrw
+
+    Artist: Girls' Generation
+    Song Name: Green Light
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/7C4aWThnPmubzxcrnJWGuk
+
+    Artist: Girls' Generation
+    Song Name: Check
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/3EQC9pepDeytAuIC6zShEF
+
+    Artist: Girls' Generation
+    Song Name: 예감 Bump It
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/0JbZnZ21MrSMZbOv81F0Kf
+
+    Artist: Girls' Generation
+    Song Name: 어떤 오후 One Afternoon
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/3wx0sbeE5MfbAFGV2zDoMY
+
+    Artist: Girls' Generation
+    Song Name: Talk Talk
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/6Pcc7F41Tfo7m2JvDMRfc7
+
+    Artist: Garnett Silk
+    Song Name: Lion Heart
+    Album: Collectors Series-Garnett Silk
+    Link: https://open.spotify.com/track/51oERwCcdjTOh97itpjfyo
+
+    Artist: Girls' Generation
+    Song Name: Show Girls
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/5lXHqiJoFY8O7dcb5TaBLL
+
+    Artist: Girls' Generation
+    Song Name: Paradise
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/4qJb26r6kIeta7xQwV6IPR
+
+    Artist: Girls' Generation
+    Song Name: Fire Alarm
+    Album: Lion Heart - The 5th Album
+    Link: https://open.spotify.com/track/40n8bfgbFI745vNrhAzE7L
+
+    Artist: Kenzic
+    Song Name: Lion Heart
+    Album: Lion Heart
+    Link: https://open.spotify.com/track/6cZiRbx3XRCx6AbXVJAkEM
+
+    Artist: Ametista
+    Song Name: Lion Heart
+    Album: Lion Heart
+    Link: https://open.spotify.com/track/1ArygYi9mNIj0pjgA28htm
+
+node liri do-what-it-says 
+ 
+    Artist: Incubus
+    Song Name: Neither of Us Can See
+    Album: Monuments And Melodies
+    Link: https://open.spotify.com/track/1BGqaDl8oQAvIbt53R7uky
+
+    Artist: Incubus
+    Song Name: Neither of Us Can See
+    Album: Stealth-Music from the Motion Picture
+    Link: https://open.spotify.com/track/1RUjnjL8aoStImXblFxjig
+
+node liri do-what-it-says 
+ 
+    Artist: Claude Joseph Rouget de Lisle
+    Song Name: La Marseillaise
+    Album: musiques militaires
+    Link: https://open.spotify.com/track/3UcgFpeFrrebm1upPSYsy8
+
+    Artist: Les Révolutionnaires
+    Song Name: La Marseillaise
+    Album: La Marseillaise
+    Link: https://open.spotify.com/track/4kPf7upxip35Qg5pJwBGdB
+
+    Artist: Silverstein
+    Song Name: La Marseillaise
+    Album: Short Songs
+    Link: https://open.spotify.com/track/2vcyX424kesxf40vjAI2AN
+
+    Artist: ARNAUD KIENTZ
+    Song Name: La Marseillaise
+    Album: LA MARSEILLAISE (Hymne National Français)
+    Link: https://open.spotify.com/track/0oWwVTGBtlk4icYBIwpuhN
+
+node liri do-what-it-says 
+ 
+Title: Chicago
+Year: 2002
+IMDB Rating: 7.2
+Rotten Tomatos Rating: 86%
+Produced in: USA, Germany, Canada
+Language: English, Hungarian
+Plot: Murderesses Velma Kelly and Roxie Hart find themselves on death row together and fight for the fame that will keep them from the gallows in 1920s Chicago.
+Actors: Taye Diggs, Cliff Saunders, Catherine Zeta-Jones, Renée Zellweger
+
+node liri do-what-it-says 
+ 
+node liri do-what-it-says 
+ 
+    Artist: Eels
+    Song Name: Selective Memory
+    Album: Daisies Of The Galaxy
+    Link: https://open.spotify.com/track/7fLBa3ZKpVTwBxmlh43c17
+
+    Artist: One Flew West
+    Song Name: Had It All
+    Album: Selective Memory
+    Link: https://open.spotify.com/track/3kJP6xdMQILdQgsDlwghp0
+
+    Artist: One Flew West
+    Song Name: Motion Sickness
+    Album: Selective Memory
+    Link: https://open.spotify.com/track/3Mlv4Dw431KK5aVY8H6nup
+
+node liri do-what-it-says 
+ 
+node liri spotify-this-song "Selective Memory"
+
+    Artist: Eels
+    Song Name: Selective Memory
+    Album: Daisies Of The Galaxy
+    Link: https://open.spotify.com/track/7fLBa3ZKpVTwBxmlh43c17
+
+    Artist: One Flew West
+    Song Name: Had It All
+    Album: Selective Memory
+    Link: https://open.spotify.com/track/3kJP6xdMQILdQgsDlwghp0
+
+    Artist: One Flew West
+    Song Name: Motion Sickness
+    Album: Selective Memory
+    Link: https://open.spotify.com/track/3Mlv4Dw431KK5aVY8H6nup
+
+node liri do-what-it-says 
+ 
+node liri movie-this "Austin Powers - International Man of Mystery"
+
+Title: Austin Powers: International Man of Mystery
+Year: 1997
+IMDB Rating: 7.0
+Rotten Tomatos Rating: 70%
+Produced in: USA, Germany
+Language: English
+Plot: A 1960s hipster secret agent is brought out of cryofreeze to oppose his greatest enemy in the 1990s, where his social attitudes are glaringly out of place.
+Actors: Mike Myers, Elizabeth Hurley, Michael York, Mimi Rogers
+
+node liri a 
+ 
+  Instructions:
+  ---------------------------
+
+  To search tweets:
+    node liri my-tweets [twitterUsernameToSearch]
+    (Default username is ZYinMD)
+
+  To search songs in Spotify:
+    node liri spotify-this-song ["song name"]
+    (Feel free to add other keywords like album, artist, etc. inside the same quote marks.
+    Default search term is "The Sign by Ace of Base")
+
+  To search movies:
+    node liri movie-this ["movie name"]
+    (Default search term is "Mr. Nobody")
+    
+
+node liri a 
+ 
+  Instructions:
+  ---------------------------
+
+  To search tweets:
+    node liri my-tweets [twitterUsernameToSearch]
+    (Default username is ZYinMD)
+
+  To search songs in Spotify:
+    node liri spotify-this-song ["song name"]
+    (Feel free to add other keywords like album, artist, etc. inside the same quote marks.
+    Default search term is "The Sign by Ace of Base")
+
+  To search movies:
+    node liri movie-this ["movie name"]
+    (Default search term is "Mr. Nobody")
+
+  To let Liri do random search:
+    node liri do-what-it-says
+    
+
+node liri do-what-it-says 
+ 
+node liri movie-this "Totoro"
+
+Title: My Neighbor Totoro
+Year: 1988
+IMDB Rating: 8.2
+Rotten Tomatos Rating: 94%
+Produced in: Japan
+Language: Japanese
+Plot: When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby.
+Actors: Noriko Hidaka, Chika Sakamoto, Shigesato Itoi, Sumi Shimamoto

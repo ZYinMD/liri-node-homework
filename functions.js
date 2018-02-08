@@ -39,7 +39,7 @@ spotifyCall = function(query = 'The Sign Ace of Base') {
     if (err) {
       return log('Error occurred: ' + err);
     }
-    for (i of data.tracks.items) {
+    for (i of data.tracks.items.slice(0,3)) {
       log(`
     Artist: ${i.artists[0].name}
     Song Name: ${i.name}
@@ -97,6 +97,9 @@ const instructions = function() {
   To search movies:
     node liri movie-this ["movie name"]
     (Default search term is "Mr. Nobody")
+
+  To let Liri do random search:
+    node liri do-what-it-says
     `)
 }
 const fs = require('fs');
@@ -112,12 +115,29 @@ function logInput() {
     fs.appendFileSync('log.txt', i + ' ')
   }
   fs.appendFileSync('log.txt', '\n ')
+}
 
+function randomCall() {
+  fs.readFile("random.txt", "utf8", function(error, data) {
+    if (error) {
+      return console.log(error);
+    }
+    var arr = data.split('\n');
+    pickOne = arr[Math.floor(Math.random() * (arr.length - 1))].split(', '); //minus 1 because the last line of the file is always an empty one, I set my text editor to do so
+    log(`\nnode liri ${pickOne[0]} ${pickOne[1]}`)
+    if (pickOne[0] == 'spotify-this-song') {
+      spotifyCall(pickOne[1]);
+    }
+    if (pickOne[0] == 'movie-this') {
+      omdbCall(pickOne[1]);
+    }
+  });
 }
 module.exports = {
   twitterCall: twitterCall,
   instructions: instructions,
   spotifyCall: spotifyCall,
   omdbCall: omdbCall,
+  randomCall: randomCall,
   logInput: logInput
 }

@@ -1,1 +1,14 @@
-spotify-this-song,“I Want it That Way”
+spotify-this-song, "La Marseillaise"
+spotify-this-song, "Selective Memory"
+spotify-this-song, "The Child In Us"
+spotify-this-song, "By The Sleepy Lagoon"
+spotify-this-song, "Lion Heart"
+spotify-this-song, "Neither Of Us Can See"
+movie-this, "Amélie"
+movie-this, "Austin Powers - International Man of Mystery"
+movie-this, "Chicago"
+movie-this, "Virgin Territory"
+movie-this, "Fantasia"
+movie-this, "Totoro"
+
+
