@@ -109,19 +109,21 @@ function omdbCall(movie = 'Mr. Nobody') {
       return;
     }
     body = JSON.parse(body);
-    // console.log(body);
-    // var rottenTomatosRating;
-    // if (body.Ratings) {
-    //   rottenTomatosRating =  body.Ratings[0].Value;
-    // } else {
-    //   rottenTomatosRating =  'N/A';
-    // }
-    // var rottenTomatosRating = body.Ratings ? body.Ratings[1].Value : 'N/A';
-    log(body.Error || // if body.Error exists, the call was successful but the movie was not found
-  `
+    if (body.Error) {
+      log(body.Error); // if body.Error exists, the call was successful but the movie was not found
+      return;
+    }
+    var rottenTomatosRating = 'N/A'; //rotten tomato rating doesn't always exist, so set it to N/A first
+    for (let i of body.Ratings) {
+      if (i.Source == 'Rotten Tomatoes') {
+        rottenTomatosRating = i.Value; //set rotten tomato rating if available
+      }
+    }
+    log(`
   Title: ${body.Title}
   Year: ${body.Year}
   IMDB Rating: ${body.imdbRating}
+  Rotten Tomatos Rating: ${rottenTomatosRating}
   Produced in: ${body.Country}
   Language: ${body.Language}
   Actors: ${body.Actors}
