@@ -1,5 +1,7 @@
 require("dotenv").config();
+const fs = require('fs');
 const apiKeys = require('./keys.js');
+
 //for Twitter to work:
 const Twitter = require('twitter');
 const twitter = new Twitter(apiKeys.twitter);
@@ -21,6 +23,7 @@ var twitterCall = function(twitterUserToSearch = 'ZYinMD') {
     }
   }
 }
+
 //for Spotify to work
 const Spotify = require('node-spotify-api');
 const spotify = new Spotify(apiKeys.spotify);
@@ -48,9 +51,9 @@ spotifyCall = function(query = 'The Sign Ace of Base') {
     }
   });
 }
+
 //for OMDB to work
 const request = require('request');
-
 function omdbCall(movie = 'Mr. Nobody') {
   var queryURL = `https://www.omdbapi.com/?apikey=${apiKeys.omdbApiKey}&t=${movie}`;
   request(queryURL, showMovie)
@@ -80,6 +83,8 @@ Plot: ${body.Plot}
 Actors: ${body.Actors}`);
   }
 }
+
+//instructions / help / manual
 const instructions = function() {
   log(`
   Instructions:
@@ -102,7 +107,6 @@ const instructions = function() {
     node liri do-what-it-says
     `)
 }
-const fs = require('fs');
 
 function log(text) {
   console.log(text);
@@ -133,6 +137,8 @@ function randomCall() {
     }
   });
 }
+
+//exports:
 module.exports = {
   twitterCall: twitterCall,
   instructions: instructions,
